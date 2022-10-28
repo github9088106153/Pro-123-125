@@ -1,0 +1,32 @@
+.heading{
+    font-size: 30px;
+    color: rgb(137, 43, 226);
+width: 100%;
+margin: 0px;
+box-shadow: 6px 6px 6px rgb(111, 135, 180);
+}
+.note{
+    font-size: 15px;
+    color: rgb(0, 255, 229);
+}
+.copy_right_footer{
+    font-size: 25px;
+    position: fixed;
+    color: rgb(10, 240, 156);
+    bottom: 10px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.587);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 6px 6px 6px rgb(62, 85, 127);
+}
+canvas,video{
+    border: 7px solid rgb(221, 31, 123);
+    border-radius: 20px;
+box-shadow: 10px 10px 10px rgb(200, 104, 104);
+}
+video{
+    
+    background-color:white;
+    }
+    
